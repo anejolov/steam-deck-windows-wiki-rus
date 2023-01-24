@@ -1,3 +1,3 @@
 # steam-deck-windows-wiki-rus
 
-https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide/wiki
+https://github.com/anejolov/steam-deck-windows-wiki-rus/wiki
